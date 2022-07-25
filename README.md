@@ -1,4 +1,4 @@
-# Speech-To-Text-JS
+# ESP32 Setup -- TASK 2
 Smart Methods Internship: Task Two In IoT Field of Practice -  esp32 setup algorithm and steps:
 The task was performed in the smart methods office.
 
